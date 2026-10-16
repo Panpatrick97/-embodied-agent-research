@@ -12,8 +12,8 @@
 
 ## 已有记录
 
-- PyRUA-Lean / *Fewer Tokens, Better Action*：精读笔记 [`docs/assets/pyrualean-reading-notes.pdf`](docs/assets/pyrualean-reading-notes.pdf)。
-- 10.10 学长交流
+- 10.9 PyRUA-Lean / *Fewer Tokens, Better Action*：精读笔记 [`docs/assets/pyrualean-reading-notes.pdf`](docs/assets/pyrualean-reading-notes.pdf)。
+- 10.10 ![学长交流](docs/assets/discussion.png)
 
 ## 资源整理
 
