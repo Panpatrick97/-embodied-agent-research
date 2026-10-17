@@ -1,6 +1,8 @@
 # Embodied Agent Research Log
 
 具身 Agent 推理效率与自适应规划的长期研究记录。以问题、证据和实验为核心，逐步整理文献、设计与结果。
+欢迎留下宝贵经验与建议。
+📮 pyz0708@icloud.com
 
 ## 目前研究问题
 
